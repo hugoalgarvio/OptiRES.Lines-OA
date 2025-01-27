@@ -2,7 +2,7 @@
 Tool to compute the Dynamic Line Rating of overhead transmission lines
 
 Reference:
-Algarvio, H., Couto, A., Duque, J., Estanqueiro, A., Pestana, R., Esteves, J., & Yang, C. (2022, April). Increase cross-border capacity to reduce market splitting of day-ahead electricity markets-A dynamic line rating approach. In 2022 IEEE/PES Transmission and Distribution Conference and Exposition (T&D) (pp. 1-5). IEEE.
+Algarvio, H., Couto, A., Duque, J., Estanqueiro, A., Pestana, R., Esteves, J., & Yang, C. (2022, April). Increase cross-border capacity to reduce market splitting of day-ahead electricity markets-A dynamic line rating approach. In 2022 IEEE/PES Transmission and Distribution Conference and Exposition (T&D) (pp. 1-5). IEEE. https://zenodo.org/records/14040004
 
 1. Prerequisites for Deployment 
 
